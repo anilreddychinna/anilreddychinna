@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+    <img src="https://komarev.com/ghpvc/?username=anilreddychinna">
 </a>
